@@ -26,9 +26,7 @@ enviarScript(`
 
 OPPENHEIMER MOVIE SCRIPT
 
-ENJOY
-
-....
+.........
 
 Dr. Oppenheimer.
 
